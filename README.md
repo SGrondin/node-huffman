@@ -12,4 +12,4 @@ Tested with node.js 0.8.18 and files of up to 80Mb.
 
 ## Usage
 
-node comp.js compress|decompress <filename>
+node comp.js compress|decompress \<filename\>
