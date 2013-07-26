@@ -8,7 +8,7 @@ The reasons for that choice are the following:
 * It is reasonably fast
 * The short development time allowed me to implement a multiple-trees system to increase the compression ratio without a performance hit.
 
-This is not the cleanest code I've written, but I'm publishing it here because I'm proud of the work I did in such little time and hopefully it will be useful to someone.
+This is not the cleanest code I've written (it contains awful binary strings instead of bitfields), but I'm publishing it here because I'm proud of the work I did in such little time and hopefully it will be useful to someone.
 Tested with node.js 0.8.18 and files of up to 80Mb.
 
 ## Usage
